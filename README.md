@@ -1,5 +1,7 @@
 # Diagnostics project
 
+"I added this sentence for the week 5 session 1 exercise".
+
 Scripts go in the `scripts` directory.
 
 Library code (Python modules) goes in the `findoutlie` directory.
